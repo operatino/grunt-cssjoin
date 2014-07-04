@@ -44,6 +44,6 @@
     "import"
   ],
   "dependencies": {
-    "cssjoin": "git://github.com/operatino/cssjoin"
+    "cssjoin": "git://github.com/operatino/cssjoin#v0.2.2"
   }
 }
